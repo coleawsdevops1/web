@@ -24,6 +24,9 @@ ShallowWrapper {
         <h1>
           An Awesome Form on React
         </h1>
+        <h2>
+          The React App Updated!
+        </h2>
         <label
           htmlFor="email"
         >
@@ -72,6 +75,9 @@ ShallowWrapper {
           <h1>
             An Awesome Form on React
           </h1>,
+          <h2>
+            The React App Updated!
+          </h2>,
           <label
             htmlFor="email"
           >
@@ -122,6 +128,17 @@ ShallowWrapper {
           "ref": null,
           "rendered": "An Awesome Form on React",
           "type": "h1",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "The React App Updated!",
+          },
+          "ref": null,
+          "rendered": "The React App Updated!",
+          "type": "h2",
         },
         Object {
           "instance": null,
@@ -270,6 +287,9 @@ ShallowWrapper {
           <h1>
             An Awesome Form on React
           </h1>
+          <h2>
+            The React App Updated!
+          </h2>
           <label
             htmlFor="email"
           >
@@ -318,6 +338,9 @@ ShallowWrapper {
             <h1>
               An Awesome Form on React
             </h1>,
+            <h2>
+              The React App Updated!
+            </h2>,
             <label
               htmlFor="email"
             >
@@ -368,6 +391,17 @@ ShallowWrapper {
             "ref": null,
             "rendered": "An Awesome Form on React",
             "type": "h1",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": "The React App Updated!",
+            },
+            "ref": null,
+            "rendered": "The React App Updated!",
+            "type": "h2",
           },
           Object {
             "instance": null,
